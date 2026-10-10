@@ -1,0 +1,6 @@
+shadow prebuilt repo: xz-java (host)
+  aur package: xz-java (PKGBUILD build, x86_64)
+  registry: arch/xz-java v14.0.0_r67-2, Forgejo ag-ci arch repo
+  api-level: 32 (branch 32-20261010; JVM jars are API-agnostic)
+  layout: .pkg.tar.zst (+ .sig) blobs at root, no extraction
+  date: 2026-10-10
